@@ -1,5 +1,5 @@
-# OS Assignment - 2
-Written by Mehul GUpta
+# OS C shell
+Written by Harsh Sharma
 
 ## To run the shell, enter the following commands:
 	1. make
