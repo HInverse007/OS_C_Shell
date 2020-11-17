@@ -20,7 +20,7 @@ This consists of the read function used continuously by shell_loop.
 This tokenizes the input.
 
 5. display_dir
-This converts the home directory to a '~' and converts other directories relative to '~'.
+This converts the home directory to a '\~' and converts other directories relative to '\~'.
 
 6. shell_ls
 This implements ls command along with the flags -a and -l.
